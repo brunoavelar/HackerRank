@@ -11,12 +11,7 @@ namespace CrackingTheCodeInterviewConsole
     {
         static void Main(string[] args)
         {
-            var staircase = 3;
-
-            var staircasesWays = Recursion.Staircase(staircase);
-
-            Console.WriteLine(staircasesWays);
-            Console.ReadKey();
+            
         }
     }
 }
