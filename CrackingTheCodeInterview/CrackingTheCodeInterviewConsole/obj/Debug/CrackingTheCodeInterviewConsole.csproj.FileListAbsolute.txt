@@ -1,0 +1,8 @@
+C:\Users\brunoavelar\documents\visual studio 2017\Projects\CrackingTheCodeInterview\CrackingTheCodeInterviewConsole\bin\Debug\CrackingTheCodeInterviewConsole.exe.config
+C:\Users\brunoavelar\documents\visual studio 2017\Projects\CrackingTheCodeInterview\CrackingTheCodeInterviewConsole\bin\Debug\CrackingTheCodeInterviewConsole.exe
+C:\Users\brunoavelar\documents\visual studio 2017\Projects\CrackingTheCodeInterview\CrackingTheCodeInterviewConsole\bin\Debug\CrackingTheCodeInterviewConsole.pdb
+C:\Users\brunoavelar\documents\visual studio 2017\Projects\CrackingTheCodeInterview\CrackingTheCodeInterviewConsole\bin\Debug\CrackingTheCodeInterview.dll
+C:\Users\brunoavelar\documents\visual studio 2017\Projects\CrackingTheCodeInterview\CrackingTheCodeInterviewConsole\bin\Debug\CrackingTheCodeInterview.pdb
+C:\Users\brunoavelar\documents\visual studio 2017\Projects\CrackingTheCodeInterview\CrackingTheCodeInterviewConsole\obj\Debug\CrackingTheCodeInterviewConsole.csprojResolveAssemblyReference.cache
+C:\Users\brunoavelar\documents\visual studio 2017\Projects\CrackingTheCodeInterview\CrackingTheCodeInterviewConsole\obj\Debug\CrackingTheCodeInterviewConsole.exe
+C:\Users\brunoavelar\documents\visual studio 2017\Projects\CrackingTheCodeInterview\CrackingTheCodeInterviewConsole\obj\Debug\CrackingTheCodeInterviewConsole.pdb
