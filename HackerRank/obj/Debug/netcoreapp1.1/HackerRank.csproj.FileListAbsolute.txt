@@ -1,0 +1,15 @@
+C:\Dev\Projects\HackerRank\HackerRank\HackerRank\bin\Debug\netcoreapp1.1\HackerRank.deps.json
+C:\Dev\Projects\HackerRank\HackerRank\HackerRank\bin\Debug\netcoreapp1.1\HackerRank.dll
+C:\Dev\Projects\HackerRank\HackerRank\HackerRank\bin\Debug\netcoreapp1.1\HackerRank.pdb
+C:\Dev\Projects\HackerRank\HackerRank\HackerRank\obj\Debug\netcoreapp1.1\HackerRank.csprojResolveAssemblyReference.cache
+C:\Dev\Projects\HackerRank\HackerRank\HackerRank\obj\Debug\netcoreapp1.1\HackerRank.AssemblyInfo.cs
+C:\Dev\Projects\HackerRank\HackerRank\HackerRank\obj\Debug\netcoreapp1.1\HackerRank.dll
+C:\Dev\Projects\HackerRank\HackerRank\HackerRank\obj\Debug\netcoreapp1.1\HackerRank.pdb
+C:\Dev\Projects\HackerRank\HackerRank\bin\Debug\netcoreapp1.1\HackerRank.deps.json
+C:\Dev\Projects\HackerRank\HackerRank\bin\Debug\netcoreapp1.1\HackerRank.dll
+C:\Dev\Projects\HackerRank\HackerRank\bin\Debug\netcoreapp1.1\HackerRank.pdb
+C:\Dev\Projects\HackerRank\HackerRank\obj\Debug\netcoreapp1.1\HackerRank.csprojResolveAssemblyReference.cache
+C:\Dev\Projects\HackerRank\HackerRank\obj\Debug\netcoreapp1.1\HackerRank.AssemblyInfo.cs
+C:\Dev\Projects\HackerRank\HackerRank\obj\Debug\netcoreapp1.1\HackerRank.dll
+C:\Dev\Projects\HackerRank\HackerRank\obj\Debug\netcoreapp1.1\HackerRank.pdb
+C:\Dev\Projects\HackerRank\HackerRank\obj\Debug\netcoreapp1.1\HackerRank.csproj.CoreCompileInputs.cache
