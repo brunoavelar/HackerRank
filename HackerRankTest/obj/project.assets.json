@@ -8597,7 +8597,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\brunoavelar\\.nuget\\packages\\": {}
+    "C:\\Users\\ba7095\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -8605,14 +8605,14 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Dev\\Projects\\HackerRank\\HackerRankTest\\HackerRankTest.csproj",
+      "projectUniqueName": "C:\\dev\\HackerRank\\HackerRankTest\\HackerRankTest.csproj",
       "projectName": "HackerRankTest",
-      "projectPath": "C:\\Dev\\Projects\\HackerRank\\HackerRankTest\\HackerRankTest.csproj",
-      "packagesPath": "C:\\Users\\brunoavelar\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\Projects\\HackerRank\\HackerRankTest\\obj\\",
+      "projectPath": "C:\\dev\\HackerRank\\HackerRankTest\\HackerRankTest.csproj",
+      "packagesPath": "C:\\Users\\ba7095\\.nuget\\packages\\",
+      "outputPath": "C:\\dev\\HackerRank\\HackerRankTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\brunoavelar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ba7095\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8620,13 +8620,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\dev\\Nuget": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://viewpost.myget.org/F/dev/api/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "C:\\Dev\\Projects\\HackerRank\\HackerRank\\HackerRank.csproj": {
-              "projectPath": "C:\\Dev\\Projects\\HackerRank\\HackerRank\\HackerRank.csproj"
+            "C:\\dev\\HackerRank\\HackerRank\\HackerRank.csproj": {
+              "projectPath": "C:\\dev\\HackerRank\\HackerRank\\HackerRank.csproj"
             }
           }
         }
