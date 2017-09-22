@@ -1,10 +1,10 @@
-﻿using CrackingTheCodeInterview;
-using FluentAssertions;
+﻿using FluentAssertions;
+using HackerRank.CrackingCodingInterview;
 using NUnit.Framework;
 using System;
 using System.Diagnostics;
 
-namespace CrackingTheCodeInterviewTests
+namespace HackerRankTest.CrackingCodingInterview
 {
     [TestFixture]
     class RecursionTest

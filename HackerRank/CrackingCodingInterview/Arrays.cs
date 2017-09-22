@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CrackingTheCodeInterview
+namespace HackerRank.CrackingCodingInterview
 {
     public static class Arrays
     {
