@@ -6,7 +6,15 @@ namespace HackerRankConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+            var expected = new[] { "     #", "    ##", "   ###", "  ####", " #####", "######" };
+
+            foreach (var item in expected)
+            {
+                Console.WriteLine(item);
+            }
+
+            Console.ReadKey();
         }
     }
 }
