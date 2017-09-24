@@ -198,5 +198,49 @@ namespace HackerRankTest.Algorithms
 
             result.Should().Be(expected);
         }
+
+        [Test]
+        public void MinMaxSumDefaultTestCase()
+        {
+            var numbers = new[] { 1, 2, 3, 4, 5 };
+            var expected = new[] { 10, 14 };
+
+            var result = Warmup.MinMaxSum(numbers);
+
+            Assert.AreEqual(expected, result);
+        }
+
+        [Test]
+        public void MinMaxSumEqualMin()
+        {
+            var numbers = new[] { 1, 2, 3, 4, 1 };
+            var expected = new[] { 7, 10 };
+
+            var result = Warmup.MinMaxSum(numbers);
+
+            Assert.AreEqual(expected, result);
+        }
+
+        [Test]
+        public void MinMaxSumEqualMax()
+        {
+            var numbers = new[] { 5, 2, 3, 4, 5 };
+            var expected = new[] { 14, 17 };
+
+            var result = Warmup.MinMaxSum(numbers);
+
+            Assert.AreEqual(expected, result);
+        }
+
+        [Test]
+        public void MinMaxSumResultLong()
+        {
+            var numbers = new[] { 2147483644, 2147483643, 2147483646, 2147483645, 2147483647 };
+            var expected = new[] { 8589934578, 8589934582 };
+
+            var result = Warmup.MinMaxSum(numbers);
+
+            Assert.AreEqual(expected, result);
+        }
     }
 }

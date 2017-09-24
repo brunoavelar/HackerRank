@@ -111,5 +111,13 @@ namespace HackerRank.Algorithms
             var datetime = DateTime.Parse(time);
             return datetime.ToString("HH:mm:ss");
         }
+
+        public static long[] MinMaxSum(int[] numbers)
+        {
+            var min = numbers.OrderBy(x => x).Take(4).Select(x => (long)x);
+            var max = numbers.OrderByDescending(x => x).Take(4).Select(x => (long)x);
+
+            return new[] { min.Sum(), max.Sum() };
+        }
     }
 }
