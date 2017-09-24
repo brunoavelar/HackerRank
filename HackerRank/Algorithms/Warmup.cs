@@ -105,5 +105,11 @@ namespace HackerRank.Algorithms
 
             return new[] { aPoints, bPoints };
         }
+
+        public static string TimeConversion(string time)
+        {
+            var datetime = DateTime.Parse(time);
+            return datetime.ToString("HH:mm:ss");
+        }
     }
 }

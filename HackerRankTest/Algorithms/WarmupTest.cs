@@ -154,5 +154,49 @@ namespace HackerRankTest.Algorithms
 
             Assert.AreEqual(expected, output);
         }
+
+        [Test]
+        public void TimeConversionAm()
+        {
+            var time = "03:00:00AM";
+            var expected = "03:00:00";
+
+            var result = Warmup.TimeConversion(time);
+
+            result.Should().Be(expected);
+        }
+
+        [Test]
+        public void TimeConversionPm()
+        {
+            var time = "03:00:00PM";
+            var expected = "15:00:00";
+
+            var result = Warmup.TimeConversion(time);
+
+            result.Should().Be(expected);
+        }
+
+        [Test]
+        public void TimeConversionMidDay()
+        {
+            var time = "12:00:00PM";
+            var expected = "12:00:00";
+
+            var result = Warmup.TimeConversion(time);
+
+            result.Should().Be(expected);
+        }
+
+        [Test]
+        public void TimeConversionMidNight()
+        {
+            var time = "12:00:00AM";
+            var expected = "00:00:00";
+
+            var result = Warmup.TimeConversion(time);
+
+            result.Should().Be(expected);
+        }
     }
 }
