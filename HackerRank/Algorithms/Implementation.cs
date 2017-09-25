@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Numerics;
 using System.Text;
 
 namespace HackerRank.Algorithms
@@ -25,6 +26,16 @@ namespace HackerRank.Algorithms
             }
 
             return grades;
+        }
+
+        public static BigInteger ExtraLongFactorial(BigInteger number)
+        {
+            if (number == 1)
+            {
+                return 1;
+            }
+
+            return number * ExtraLongFactorial(number - 1);
         }
     }
 }
